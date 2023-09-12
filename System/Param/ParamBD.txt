@@ -1,0 +1,7 @@
+mostrarproperties=si
+url=jdbc:firebirdsql:localhost/3050:C:/Program Files (x86)/Common Files/Aspel/Sistemas Aspel/SAE8.00/Empresa01/Datos/SAE80EMPRE01.FDB?charSet=UTF8
+userdb=SYSDBA
+passdb=masterkey
+url2=jdbc:firebirdsql:localhost/3050:C:/Program Files (x86)/Common Files/Aspel/Perfiles/PERFILES.FDB?charSet=UTF8
+url3=jdbc:firebirdsql:localhost/3050:C:/Program Files (x86)/Common Files/Aspel/Sistemas Aspel/CAJA4.00/Datos/CAJA40.FDB?charSet=UTF8
+url4=jdbc:firebirdsql:localhost/3050:C:/Users/MiguelCastellanos/Documents/NetBeansProjects/Codi-Report-Lite/System/Param/CONTROL.FDB?charSet=UTF8
